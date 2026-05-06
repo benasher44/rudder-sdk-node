@@ -47,6 +47,9 @@
     "clean": "rm -rf dist",
     "setup": "npm install"
   },
+  "engines": {
+    "node": ">=16.13.0"
+  },
   "keywords": [
     "analytics"
   ],
